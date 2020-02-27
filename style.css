@@ -55,3 +55,8 @@ body,html{
   justify-content: space-around;
   align-items: center;
 }
+
+.mainContainer div p: first-child{
+  font-size: 6vmin;
+  font-weight: bold;
+}
